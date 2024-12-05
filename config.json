@@ -1,7 +1,7 @@
 {
   "Siti": {
          "StreamingCommunity": {
-             "domain": "asia"
+             "domain": "computer"
          },
          "Filmpertutti": {
              "domain": "diy"
@@ -22,7 +22,7 @@
             "domain":"so"
         },
         "SkyStreaming":{
-            "domain":"guru"
+            "domain":"my"
         },
         "DaddyLiveHD":{
             "enabled":"1"
