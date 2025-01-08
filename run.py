@@ -25,7 +25,7 @@ from urllib.parse import unquote
 from Src.Utilities.m3u8 import router as m3u8_clone
 #Configure Env Vars
 Global_Proxy = config.Global_Proxy
-if Global_Proxy == "1":
+if Global_Proxy == "0":
     from Src.Utilities.loadenv import load_env
     env_vars = load_env()
     PROXY_CREDENTIALS = env_vars.get('PROXY_CREDENTIALS')
