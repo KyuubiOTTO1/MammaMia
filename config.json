@@ -3,7 +3,7 @@
            "StreamingCommunity": {
                "domain": "prof",
                "SC_ForwardProxy": "0",
-               "SC_PROXY": "1",
+               "SC_PROXY": "0",
                "VX_ForwardProxy": "0",
                "VX_PROXY": "0",
                "enabled": "1"
@@ -82,7 +82,7 @@
        "Icon": "🍕️",
        "Public_Instance": "0",
        "Remote_Instance": "1",
-       "Global_Proxy": "1"
+       "Global_Proxy": "0"
        }
   }
   
